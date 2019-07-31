@@ -7,13 +7,21 @@ function whisper(string) {
 }
 
 function logShout(string){
-  console.log(string).toUpperCase();
+  console.log().toUpperCase();
 }
 
 function logShout(string){
-  console.log(string).toLowerCase();
+  console.log().toLowerCase();
 }
 
+function sayHiToGrandma(string)
+{
+var lowercase = "hello!";
+  lowercase.toLowerCase() === lowercase; // true
+  if (lowercase){
+  return "I can't hear you!";
+  }
+}
 function sayHiToGrandma(string)
 {
 var uppercase = "HELLO!";
