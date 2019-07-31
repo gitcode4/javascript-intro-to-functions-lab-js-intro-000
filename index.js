@@ -36,6 +36,6 @@ function sayHiToGrandma(string)
 {
 var greeting = "I love you, Grandma";
   if (greeting){
-  return "I love you, too.";
+//  return "I love you, too.";
   }
 }
