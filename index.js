@@ -39,5 +39,3 @@ var greeting = "I love you, Grandma";
   return "I love you, too.";
   }
 }
-
-
